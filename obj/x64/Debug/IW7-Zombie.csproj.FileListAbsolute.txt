@@ -1,0 +1,15 @@
+C:\Users\ilya\source\repos\IW7-Zombie\bin\x64\Debug\IW7-Zombie.exe.config
+C:\Users\ilya\source\repos\IW7-Zombie\bin\x64\Debug\IW7-Zombie.exe
+C:\Users\ilya\source\repos\IW7-Zombie\bin\x64\Debug\IW7-Zombie.pdb
+C:\Users\ilya\source\repos\IW7-Zombie\bin\x64\Debug\Memory.dll
+C:\Users\ilya\source\repos\IW7-Zombie\bin\x64\Debug\Memory.pdb
+C:\Users\ilya\source\repos\IW7-Zombie\bin\x64\Debug\Memory.xml
+C:\Users\ilya\source\repos\IW7-Zombie\obj\x64\Debug\IW7-Zombie.csproj.AssemblyReference.cache
+C:\Users\ilya\source\repos\IW7-Zombie\obj\x64\Debug\IW7-Zombie.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilya\source\repos\IW7-Zombie\obj\x64\Debug\IW7_Zombie.Form1.resources
+C:\Users\ilya\source\repos\IW7-Zombie\obj\x64\Debug\IW7_Zombie.Properties.Resources.resources
+C:\Users\ilya\source\repos\IW7-Zombie\obj\x64\Debug\IW7-Zombie.csproj.GenerateResource.cache
+C:\Users\ilya\source\repos\IW7-Zombie\obj\x64\Debug\IW7-Zombie.csproj.CoreCompileInputs.cache
+C:\Users\ilya\source\repos\IW7-Zombie\obj\x64\Debug\IW7-Zombie.csproj.CopyComplete
+C:\Users\ilya\source\repos\IW7-Zombie\obj\x64\Debug\IW7-Zombie.exe
+C:\Users\ilya\source\repos\IW7-Zombie\obj\x64\Debug\IW7-Zombie.pdb
